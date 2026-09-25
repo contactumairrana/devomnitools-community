@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ OmniTools
+# ⚡ DevOmniTools
 ### High-Performance • 100% Client-Side • Privacy-First Developer Utilities
 
 [![Website](https://img.shields.io/badge/Website-devomnitools.com-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.devomnitools.com)
@@ -21,7 +21,7 @@
   Free, instant, private client-side utilities designed for software engineers, security researchers, and UI designers.
 </p>
 
-[**🌐 Open OmniTools Web App**](https://www.devomnitools.com) &bull;
+[**🌐 Open DevOmniTools Web App**](https://www.devomnitools.com) &bull;
 [**🧩 Chrome &amp; Edge Extension**](https://www.devomnitools.com/en/extension/) &bull;
 [**💡 Request a Tool**](https://github.com/contactumairrana/omnitools-community/issues/new?template=feature_request.md) &bull;
 [**🐛 Report a Bug**](https://github.com/contactumairrana/omnitools-community/issues/new?template=bug_report.md) &bull;
@@ -54,7 +54,7 @@
 
 ---
 
-## 🛠️ Complete Directory of 45 Live Production Tools
+## 🛠️ Complete Directory of 65 Live Production Tools
 
 ### 🎨 Design & Vector Utilities
 | Tool | Features & Highlights | Direct Link |
