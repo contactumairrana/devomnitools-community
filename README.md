@@ -14,7 +14,7 @@
 <br/>
 
 <a href="https://www.devomnitools.com">
-  <img src="assets/omnitools-architecture.jpg" alt="OmniTools Ecosystem &amp; Growth Architecture" width="100%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);" />
+  <img src="assets/devomnitools-architecture.jpg" alt="DevOmniTools Ecosystem &amp; Growth Architecture" width="100%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);" />
 </a>
 
 <p align="center">
@@ -24,8 +24,8 @@
 
 [**🌐 Open DevOmniTools Web App**](https://www.devomnitools.com) &bull;
 [**🧩 Chrome &amp; Edge Extension**](https://www.devomnitools.com/en/extension/) &bull;
-[**💡 Request a Tool**](https://github.com/contactumairrana/omnitools-community/issues/new?template=feature_request.md) &bull;
-[**🐛 Report a Bug**](https://github.com/contactumairrana/omnitools-community/issues/new?template=bug_report.md) &bull;
+[**💡 Request a Tool**](https://github.com/contactumairrana/devomnitools-community/issues/new?template=feature_request.md) &bull;
+[**🐛 Report a Bug**](https://github.com/contactumairrana/devomnitools-community/issues/new?template=bug_report.md) &bull;
 [**🐦 Follow on X / Twitter**](https://x.com/devomnitools)
 
 </div>
@@ -141,12 +141,12 @@ DevOmniTools is actively submitted and curated across top open-source repositori
 ## 🤝 Community & Support
 
 Have an idea for a tool that would simplify your developer workflow?
-1. Check existing requests in our [**Issues Tracker**](https://github.com/contactumairrana/omnitools-community/issues).
-2. [**Submit a Tool Request**](https://github.com/contactumairrana/omnitools-community/issues/new?template=feature_request.md) with input/output requirements.
+1. Check existing requests in our [**Issues Tracker**](https://github.com/contactumairrana/devomnitools-community/issues).
+2. [**Submit a Tool Request**](https://github.com/contactumairrana/devomnitools-community/issues/new?template=feature_request.md) with input/output requirements.
 3. Star this repository to help spread private, free developer tools! ⭐
 
 ---
 
 ## 📄 License
 Released under the [MIT License](LICENSE).  
-Created and maintained with ❤️ by [**Muhammad Umair**](https://github.com/contactumairrana) and the OmniTools community.
+Created and maintained with ❤️ by [**Muhammad Umair**](https://github.com/contactumairrana) and the DevOmniTools community.
