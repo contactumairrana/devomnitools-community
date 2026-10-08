@@ -25,16 +25,21 @@ Offline use depends on the page and its assets finishing caching. External AI, l
 
 ## Directory submissions
 
-These submissions were checked on October 1, 2026. All six remain open and unmerged. Submission does not imply directory endorsement or an accepted backlink.
+These submissions were updated on October 8, 2026. Submission does not imply directory endorsement or an accepted backlink.
 
 | Directory | Submission | Status |
 | --- | --- | --- |
 | Awesome Privacy | [PR #1141](https://github.com/pluja/awesome-privacy/pull/1141) | Awaiting review |
-| Brad Traversy Design Resources | [PR #1731](https://github.com/bradtraversy/design-resources-for-developers/pull/1731) | Awaiting review |
+| Brad Traversy Design Resources | [PR #1731](https://github.com/bradtraversy/design-resources-for-developers/pull/1731) | **Merged** 🎉 |
 | Awesome PWA | [PR #498](https://github.com/hemanth/awesome-pwa/pull/498) | Awaiting review |
 | Marko Denic Web Development Resources | [PR #820](https://github.com/markodenic/web-development-resources/pull/820) | Awaiting review |
 | Dev Tools No Signup | [PR #3](https://github.com/ResourceChest/dev-tools-no-signup/pull/3) | Awaiting review |
 | Compass Security Resources | [PR #11](https://github.com/CompassSecurity/security_resources/pull/11) | Awaiting review |
+
+## Developer Guides & Cheat Sheets
+
+We regularly publish technical guides, offline tutorials, and zero-fluff cheat sheets:
+- [How to Convert SVG Icons to a Custom Web Font (TTF/WOFF) in 2026](guides/svg-to-font-conversion-guide-2026.md)
 
 ## Contributing feedback
 
