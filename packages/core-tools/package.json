@@ -1,0 +1,24 @@
+{
+  "name": "@devomnitools/core",
+  "version": "1.0.0",
+  "description": "Zero-telemetry, pure in-browser client-side developer utility algorithms (SVG to Font, JWKS verifier, lossless JSON diff, and more)",
+  "main": "index.ts",
+  "types": "index.ts",
+  "scripts": {
+    "test": "echo \"Core modules tested via Vitest\""
+  },
+  "keywords": [
+    "developer-tools",
+    "svg-to-font",
+    "jwt-verifier",
+    "client-side",
+    "webcrypto",
+    "offline-first"
+  ],
+  "author": "Muhammad Umair <contactumairrana>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/contactumairrana/devomnitools-community.git"
+  }
+}
