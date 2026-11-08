@@ -31,6 +31,14 @@ You can inspect, audit, or integrate our zero-telemetry client-side tool impleme
 
 ---
 
+## ⚡ Open-Source AI Agent Skills & Tooling
+
+| Repository / Package | Description | AI Client Support |
+|---|---|---|
+| [**cleanroom-recon**](https://github.com/contactumairrana/cleanroom-recon) | Clean-room reverse engineering & architectural blueprint engine. Dissects web apps into TypeScript specs, Mermaid.js maps, and zero-leak security audits in 60s. | Claude Code, Cursor, Antigravity |
+
+---
+
 ## 🛡️ Zero Server Upload & Privacy Architecture
 
 Unlike traditional online formatters that send proprietary tokens, SQL schemas, and code to remote servers:
